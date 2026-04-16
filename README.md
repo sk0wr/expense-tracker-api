@@ -14,7 +14,7 @@ Permite registrar, consultar y actualizar gastos.
 
 1. Ejecutar el proyecto
 
-También se puede ejecutar desde consola:
+
 
 ## Endpoints disponibles
 
