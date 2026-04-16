@@ -10,10 +10,6 @@ Permite registrar, consultar y actualizar gastos.
 - Swagger (OpenAPI)
 - Persistencia en memoria
 
-## Cómo ejecutar el proyecto
-
-1. Ejecutar el proyecto
-
 
 
 ## Endpoints disponibles
